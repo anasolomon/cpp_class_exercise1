@@ -1,6 +1,6 @@
 /******************************************************************************
 
-This program only accepts an integer that is between 1 and 12, telling you at the end to which month num corresponds to
+This program only accepts an integer that is between 1 and 12, telling you at the end to which month num corresponds to (by using solely functions)
 
 *******************************************************************************/
 
