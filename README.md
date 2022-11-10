@@ -1,3 +1,3 @@
-# Class exercise of 11-10-2022
+# Class exercises/projects
 
-This program converts hour+minutes+seconds from user input into it's total equivalent in seconds by using solely functions (c++)
+Diverse C++ programs degsigned each to teach something specific from the programming language (c++)
